@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @holybreaded
+- 👋 Hi, I’m @holybreaded aka Brendan
 - 👀 I’m interested in Data and Software Engineering
 - 🌱 I’m currently learning the uses of MongoDB
 - 📫 How to reach me: Whatsapp (+65 8288 0247), Instagram @breaded_lyb
